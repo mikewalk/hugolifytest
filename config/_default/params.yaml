@@ -1,26 +1,4 @@
 _merge: deep
 
 admin:
-  auth:
-    netlify_identity: true
-  branch: main
-  cms: decapcms
-  config:
-    id: false
-  git: git-gateway
-  i18n:
-    default_locale: en
-    locales: false
-  media:
-    media_folder: 'assets/images/uploads'
-    public_folder: '/images/uploads'
-    audio_max_file_size: 700000
-    max_file_size: 700000
-    pdf_max_file_size: 5000000
-    specific_filter: false
-    video_max_file_size: 5000000
-  nested:
-    depth: 2
-  preview: false
-  publish_mode: simple
-  repo: "mikewalk/hugolifytest"
+  cms: pagescms
