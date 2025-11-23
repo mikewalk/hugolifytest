@@ -1,15 +1,15 @@
 {
-  "name": "hugolify-template",
+  "name": "hugolifytest",
   "version": "1.16.0",
-  "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "homepage": "https://mikewalk.github.io/",
+  "repository": "https://github.com/mikewalk/hugolifytest",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/mikewalk/hugolifytest/issues"
   },
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
-    "url": "https://www.sebastienmoulene.com/"
+    "email": "mikewalk@gmail.com",
+    "name": "Mike Walker",
+    "url": "https://github.com/mikewalk"
   },
   "license": "MIT",
   "devDependencies": {
