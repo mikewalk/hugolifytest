@@ -2,3 +2,7 @@ _merge: deep
 
 admin:
   cms: pagescms
+  media:
+    audio_folders: true
+    pdf_folders: true
+    video_folders: true
